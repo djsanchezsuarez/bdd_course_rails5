@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "5c1305e092e1.sn.mynetname.net",
+    "username": "root",
+    "password": "Soraya12",
+    "port": 29,
+    "remotePath": "/home/domingo/code/blog_app",
+    "uploadOnSave": true
+}
